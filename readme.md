@@ -8,7 +8,7 @@ calculator project
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **calculator** [Live Link]
+# **calculator** [Live Link](https://calculatorapp-1.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about for  loop
